@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @liahvick
-- 👀 I’m interested in  ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+-Oi eu sou a Julia, tenho 14 anos 
+- Gosto muito de livros
+- Minha música favorita é ![](https://m.youtube.com/watch?v=ItKUpH0ExY0&pp=ygUObWFyaWEgYmV0aGFuaWE%3D)
+  - ![](https://images.app.goo.gl/rykfzvSYwUWQ64GGA)
 <!---
 liahvick/liahvick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,5 +1,5 @@
 -Oi eu sou a Julia, tenho 14 anos 
-- Gosto muito de livros
+- Gosto muito de livros eróticos
 - Minha música favorita é [Youtube](https://m.youtube.com/watch?v=ItKUpH0ExY0&pp=ygUObWFyaWEgYmV0aGFuaWE%3D)
 ![](https://images.app.goo.gl/rykfzvSYwUWQ64GGA)
 <!---
